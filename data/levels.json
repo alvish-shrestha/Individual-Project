@@ -1,0 +1,16 @@
+{
+  "levels": [
+    {
+      "name": "Canteen",
+      "background": "assets/images/canteen.jpg",
+      "questions": [
+        {
+          "image": "assets/images/waiter.jpg",
+          "question": "What is the waiter doing?",
+          "options": ["eating", "serving", "reading", "sleeping"],
+          "answer": "serving"
+        }
+      ]
+    }
+  ]
+}
